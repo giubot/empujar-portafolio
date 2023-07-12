@@ -240,7 +240,7 @@ text-align: left;
   
    flex-wrap: wrap;
    width: 100%;
-   display: grid;
+   display: flex;
    grid-template-columns: 1fr 1fr;
    
 }
