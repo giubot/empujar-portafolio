@@ -232,7 +232,7 @@ text-align: left;
 .testimony__container{
    display: flex;
    flex-wrap: wrap;
-   gap: 1em;
+   
 
 }
 
@@ -242,6 +242,7 @@ text-align: left;
    width: 100%;
    display: flex;
    grid-template-columns: 1fr 1fr;
+   gap: 1em;  
    
 }
 
